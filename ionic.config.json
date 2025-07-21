@@ -1,0 +1,7 @@
+{
+  "name": "starter-vpv-ionic-vue-js",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
